@@ -2610,7 +2610,7 @@ msgstr "LOGIN on poistettu käytöstä palvelimella"
 
 #: imap/auth_login.c:60 imap/auth_plain.c:54 pop/auth.c:280
 msgid "Logging in..."
-msgstr "Kirjaudutaan siäsään..."
+msgstr "Kirjaudutaan sisään..."
 
 #: imap/auth_login.c:79 imap/auth_plain.c:94 pop/auth.c:322
 msgid "Login failed"
